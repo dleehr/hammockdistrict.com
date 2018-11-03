@@ -30,6 +30,8 @@ menu:
         url: 'https://itunes.apple.com/us/app/flac-player/id390532592?mt=8'
       - title: 'Clone'
         url: 'https://clone.hammockdistrict.com/'
+  - title: 'About'
+    url: '/about'
   - title: 'Support'
     url: 'mailto:support@hammockdistirct.com?subject=Support%20Request'
 

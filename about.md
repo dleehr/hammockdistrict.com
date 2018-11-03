@@ -4,33 +4,16 @@ title: About
 share: true
 ---
 
-# Neo-HPSTR Jekyll Theme
+## The Hammock District
 
-Neo-HPSTR Jekyll is a responsive and modern blog template.
+The Hammock District was established in 2009 as a creative outlet to build efficient, native applications on iPhone.
 
-# Live Demo
+My first app, Filer, was designed as a quick way to grab a file and save it to your iPhone. The design philosophy was to make it usable from a hammock. Specifically, make that task simple enough on your phone that you wouldn't want to get up and go use a _real computer_.
 
-You can see it running [here](http://blog.rhesoft.com/) and [here](http://aronbordin.com/neo-hpstr-jekyll-theme/).
+In the years since, I've moved onto my love of high fidelity music with FLAC Player, and expanded to the big canvas of iPad. Filer (named Downloader at the time) was one of the few iPad apps available at launch in 2010, and I'm incredibly proud to have been part of that beginning.
 
+With Clone, I'm hoping to push iPad forward as a productive developer tool. Often, version control apps like Git are the last things you'd want to use from a hammock. But, with clean lines and easy code publishing, I'm hoping to change that.
 
-## What Neo-HPSTR brings to the table:
+Thanks for stopping by.
 
-* Modern design.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet topbar animated menu with support for drop-downs.
-* Optional [Disqus](http://disqus.com) comments and social sharing links.
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) to make your code examples look snazzy
-* Author panel, with social links
-* Read more tag support(similar with Wordpress ).
-
-![Preview](http://aronbordin.com/images/neo-hpstr-jekyll-theme-preview.png)
-
-
----
-
-## Getting Started
-
-Neo-HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
+-Dan
