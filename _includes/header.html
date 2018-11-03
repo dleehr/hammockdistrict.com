@@ -28,10 +28,18 @@
             </ul>
           </li>
         {% elsif menu.submenu %}
+          {% if menu.ext_url %}
+          <li class="header-item {{class}}"><a href="{{menu.ext_url}}"><h3>{{ menu.title }}</h3></a>
+          {% else %}
           <li class="header-item {{class}}"><a href="{{site.url}}{{menu.url}}"><h3>{{ menu.title }}</h3></a>
+          {% endif %}
             <ul class="header-submenu">
               {% for sub in menu.submenu %}
+                {% if sub.ext_url %}
+                <li class="sub-item"><a href="{{sub.ext_url}}">{{sub.title}}</a></li>
+                {% else %}
                 <li class="sub-item"><a href="{{site.url}}{{sub.url}}">{{sub.title}}</a></li>
+                {% endif %}
               {% endfor %}
             </ul>
           </li>
