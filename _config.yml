@@ -23,15 +23,15 @@ menu:
     url: '#'
     submenu:
       - title: 'Filer'
-        url: '/filer/'
+        url: 'https://itunes.apple.com/us/app/filer/id318884764?mt=8'
       - title: 'Filer Lite'
-        url: '/filerlite/'
+        url: 'https://itunes.apple.com/us/app/filer-lite/id350939597?mt=8'
       - title: 'FLAC Player'
-        url: '/flacplayer'
+        url: 'https://itunes.apple.com/us/app/flac-player/id390532592?mt=8'
       - title: 'Clone'
-        url: '/clone'
+        url: 'https://clone.hammockdistrict.com/'
   - title: 'Support'
-    url: '/support'
+    url: 'mailto:support@hammockdistirct.com?subject=Support%20Request'
 
 # Owner/author information
 owner:
