@@ -34,6 +34,13 @@ menu:
     url: '/about'
   - title: 'Support'
     url: 'mailto:support@hammockdistirct.com?subject=Support%20Request'
+  - title: 'Privacy'
+    url: '#'
+    submenu:
+      - title: 'FLAC Player'
+        url: '/flacplayer/privacy'
+      - title: 'Clone'
+        url: 'https://clone.hammockdistrict.com/privacy-policy'
 
 # Owner/author information
 owner:
